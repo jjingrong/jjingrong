@@ -4,7 +4,7 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR" :)
 
 ---
 
-- 🔭 I’m currently working as Head of Engineering at @ [Kaidee](https://github.com/teamkaidee)
+- 🔭 I’m currently working as Head of Engineering at [Kaidee](https://github.com/teamkaidee)
 - 🌱 I’m currently learning how to contribute to the public good for my community/country.
 - 👯 I’m looking to collaborate on open-source projects & tooling.
 - 💬 Ask me about Frontend Development, Startups, and A.I
