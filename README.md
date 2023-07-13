@@ -7,7 +7,7 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
 - 🌱 I’m currently learning how to contribute to the public good for my community/country.
 - 👯 I’m looking to collaborate on open-source projects & tooling.
 - 💬 Ask me about Frontend Development, Startups, and A.I
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limjingrong/)
 - ⚡ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/19524/history)
   - OR 8,365 in 2022/2023 (Top 0.07% in the world)
 
