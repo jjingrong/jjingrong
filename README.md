@@ -22,9 +22,9 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=6aa6f8)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjingrong&show_icons=true&hide_border=true&theme=bear" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjingrong&show_icons=true&hide_border=true&theme=bear" width="400">
   &nbsp&nbsp
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jjingrong&hide_border=true&theme=bear" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jjingrong&hide_border=true&theme=bear" width="400">
 </p>
 
 <!--
