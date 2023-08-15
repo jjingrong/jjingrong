@@ -5,11 +5,10 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
 - 🔭 I’m currently working as the Head of Engineering at [Kaidee](https://github.com/teamkaidee)
 - 💼 I am also the Technical Co-Founder/CTO of **Rate** ([RateX](https://github.com/team-ratex), [RateS](https://github.com/rate-engineering)) 
 - 🌱 I’m currently learning how to contribute to the public good for my community/country.
-- 👯 I’m looking to collaborate on open-source projects & tooling.
 - 💬 Ask me about Frontend Development, Startups, and A.I
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limjingrong/)
 - ⚡ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/19524/history)
-  - OR 8,365 in 2022/2023 (Top 0.07% in the world)
+  - OR 8,365 in 2022/2023 Season (Top 0.07% in the world)
 
 
 ## 🔧 Technologies & Tools
@@ -25,6 +24,11 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
   <img src="https://github-readme-stats.vercel.app/api?username=jjingrong&show_icons=true&hide_border=true&theme=bear" width="400">
   &nbsp&nbsp
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jjingrong&hide_border=true&theme=bear" width="400">
+</p>
+
+## 💻 Leetcode ([profile](https://leetcode.com/jjingrong/))
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=jjingrong&theme=dark" width="400" />
 </p>
 
 <!--
