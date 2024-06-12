@@ -8,7 +8,8 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
 - 💬 Ask me about Frontend Development, Startups, and A.I
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limjingrong/)
 - ⚡ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/19524/history)
-  - OR 8,365 in 2022/2023 Season (Top 0.07% in the world)
+  - OR 48,272 in 2023/2024 Season (Top 0.45% in the world out of 10.91m players)
+  - OR  8,365 in 2022/2023 Season (Top 0.07% in the world out of 11.45m players)
 
 
 ## 🔧 Technologies & Tools
