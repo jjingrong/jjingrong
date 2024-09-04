@@ -7,7 +7,7 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
 - 🌱 I’m currently learning how to contribute to the public good for my community/country.
 - 💬 Ask me about Frontend Development, Startups, and A.I
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limjingrong/)
-- ⚡ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/19524/history)
+- ⚡ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/23634/history)
   - OR 48,272 in 2023/2024 Season (Top 0.45% in the world out of 10.91m players)
   - OR  8,365 in 2022/2023 Season (Top 0.07% in the world out of 11.45m players)
 
@@ -27,14 +27,13 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jjingrong&hide_border=true&theme=bear" width="400">
 </p>
 
-## 💻 Leetcode ([profile](https://leetcode.com/jjingrong/))
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=jjingrong&theme=dark" width="400" />
-</p>
-
 <!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjingrong)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jjingrong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 💻 Leetcode ([profile](https://leetcode.com/jjingrong/))
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=jjingrong&theme=dark" width="400" />
+</p>
 -->
