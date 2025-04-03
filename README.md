@@ -3,7 +3,7 @@
 I'm Jing Rong, and my family name's Lim. Most people address me as "JR" 
 
 - 🔭 I’m currently working as the Head of Engineering at [Kaidee](https://github.com/teamkaidee)
-- 💼 I am also the Technical Co-Founder/CTO of **Rate** ([RateX](https://github.com/team-ratex), [RateS](https://github.com/rate-engineering)) 
+- 💼 I was also the Technical Co-Founder/CTO of **Rate** ([RateX](https://github.com/team-ratex), [RateS](https://github.com/rate-engineering)). RateS was acquired in 2023
 - 🌱 I’m currently learning how to contribute to the public good for my community/country.
 - 💬 Ask me about Frontend Development, Startups, and A.I
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limjingrong/)
