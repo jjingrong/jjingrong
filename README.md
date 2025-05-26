@@ -7,10 +7,13 @@ I'm Jing Rong, and my family name's Lim. Most people address me as "JR"
 - 🌱 I’m currently learning how to contribute to the public good for my community/country.
 - 💬 Ask me about Frontend Development, Startups, and A.I
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/limjingrong/)
-- ⚡ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/23634/history)
-  - OR 48,272 in 2023/2024 Season (Top 0.45% in the world out of 10.91m players)
-  - OR  8,365 in 2022/2023 Season (Top 0.07% in the world out of 11.45m players)
+- ⚽ Fun fact: I love playing [Fantasy Premier League](https://fantasy.premierleague.com/entry/23634/history), and have consistently placed in **top 0.5%** of all players globally every year.
 
+  | Season | Overall Rank (OR) | Total Players | Percentile |
+  |--------|--------|--------|--------|
+  | 2024/2025 | 28,654 | 11.5m |Top 0.25% | 
+  | 2023/2024 | 48,272 | 10.91m | Top 0.45% |
+  | 2022/2023 | 8,365 | 11.45m | Top 0.07% |
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=6aa6f8)
